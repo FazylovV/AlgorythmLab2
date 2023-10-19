@@ -6,7 +6,7 @@ namespace Recursion
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(Recursion.ExecuteReverse(3, 3));
+            Console.WriteLine(Recursion.Execute(3, 3));
         }
     }
 }

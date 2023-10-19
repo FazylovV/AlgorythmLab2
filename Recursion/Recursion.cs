@@ -22,7 +22,7 @@ namespace Recursion
             return res;
         }
 
-        public static int ExecuteReverse(int k, int s)
+        public static int Execute(int k, int s)
         {
             return GetNum(0, 0, k, s);
         }
